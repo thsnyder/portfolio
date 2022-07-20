@@ -1,5 +1,3 @@
-# portfolio
-portfolio
 # Welcome to my Data Analysis Portfolio
 This portfolio is dedicated to data analysis, visualizations, and some machine learrning.
 ### View by Project 
